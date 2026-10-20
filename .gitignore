@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+*.spec
+
+# Test / local data
+test_images/
+duplicates/
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
