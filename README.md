@@ -29,7 +29,9 @@
 
 ### Έτοιμο `.exe` (χωρίς Python)
 
-Κατέβασε το `ImageDuplicateFinder.exe` από τα **Releases** και τρέξε το.
+Κατέβασε το `ImageDuplicateFinder.exe` από τα
+[**Releases**](https://github.com/eazyfixgr/image-duplicate-finder/releases) και
+τρέξε το.
 
 > Τα Windows SmartScreen μπορεί να προειδοποιήσουν επειδή το exe δεν είναι
 > ψηφιακά υπογεγραμμένο. Πάτα «More info → Run anyway».
